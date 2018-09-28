@@ -10,8 +10,11 @@
       <jean-eglinton-logo/>
       <v-card>
         <v-card-title>Art by Jean Eglinton</v-card-title>
-        <cut-paper/>
-        <torah-ark/>
+        <v-card-text>
+          <p>Coming Soon!</p>
+          <cut-paper/>
+          <torah-ark/>
+        </v-card-text>
       </v-card>
     </v-flex>
   </v-layout>
