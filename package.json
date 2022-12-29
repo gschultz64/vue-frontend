@@ -16,7 +16,7 @@
     "@nuxtjs/axios": "^5.0.0",
     "cross-env": "^5.2.0",
     "express": "^4.16.3",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "strapi-sdk-javascript": "^0.3.0",
     "vuetify": "^1.2.4"
   },
@@ -24,12 +24,12 @@
     "nodemon": "^1.11.0",
     "babel-eslint": "^8.2.1",
     "eslint": "^5.0.1",
-    "eslint-loader": "^2.0.0",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-vue": "^4.0.0",
     "eslint-config-prettier": "^3.1.0",
     "eslint-plugin-prettier": "2.6.2",
     "prettier": "1.14.3",
     "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.2"
+    "stylus-loader": "^7.1.0"
   }
 }
